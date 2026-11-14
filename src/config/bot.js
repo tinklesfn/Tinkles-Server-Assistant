@@ -22,11 +22,7 @@ export const botConfig = {
     // 4 = Custom
     // 5 = Competing
     activities: [],
-      {
-        name: "", // required by Discord API, not shown in the client
-        state: "",     // this is what people actually see
-        type: 3,               // Custom
-      },
+      
     ],
   },
 
