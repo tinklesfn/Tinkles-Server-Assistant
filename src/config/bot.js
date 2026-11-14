@@ -12,6 +12,8 @@ export const botConfig = {
   presence: {
     // Current online state shown on Discord.
     status: "dnd",
+    activities: [],
+    },
 
     // Activity lines shown under the bot name.
     // `type` number mapping from Discord:
